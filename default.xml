@@ -19,7 +19,7 @@
   <project remote="github" revision="master" name="texierp/meta-chip" path="sources/meta-chip"/>
 
   <!-- SDK -->
-  <project remote="github" revision="master" name="NextThingCo/CHIP-SDK" path="SDK/meta-chip"/>
+  <project remote="github" revision="master" name="NextThingCo/CHIP-SDK" path="SDK/CHIP-SDK"/>
   
 </manifest>
 
